@@ -1,5 +1,5 @@
 # Zápočtový program, zimní semestr 2025/26
-# Programovaní 1 (NPRG030)
+## Programovaní 1 (NPRG030)
 
 ## Specifikace
 
