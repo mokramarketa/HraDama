@@ -14,5 +14,5 @@ Program se spustí příkazem: `python Dama.py`
 
 ## Dokumentace
 
-* [Uživatelská dokumentace](docs/user.md)
-* [Programátorská dokumentace](docs/programmer.md)
+* [Uživatelská dokumentace](/user.md)
+* [Programátorská dokumentace](/programmer.md)
